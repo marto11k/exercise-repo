@@ -1,3 +1,6 @@
 # exercise-repo
-repo made for exercise
 i have no idea what i am doing
+This project will contain...
+Repository made for exercises.
+Hello, again!!!
+
